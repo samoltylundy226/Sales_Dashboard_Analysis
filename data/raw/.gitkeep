@@ -1,0 +1,5 @@
+# Raw Data Directory
+
+Place raw, immutable source data files in this directory.
+
+> **Note:** Raw datasets should not be modified directly. All transformations must be performed via scripts in `src/`.

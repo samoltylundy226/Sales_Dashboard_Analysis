@@ -1,0 +1,4 @@
+# Notebooks Directory
+
+Store exploratory data analysis (EDA), prototyping, and experimentation Jupyter notebooks here.
+Format guideline: Prefix notebooks with order index, e.g., `01_exploratory_data_analysis.ipynb`.

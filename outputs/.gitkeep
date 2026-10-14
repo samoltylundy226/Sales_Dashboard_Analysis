@@ -1,0 +1,4 @@
+# Outputs Directory
+
+Store generated analytical outputs, summary tables, KPI reports, and chart exports here.
+Transient artifacts and intermediate exports should be stored here.
